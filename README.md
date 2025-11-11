@@ -158,3 +158,42 @@ JO  - Diario Oficial de la Federación
 N1  - Publicación oficial de la modificación de políticas [10, 11].
 UR  - http://www.dof.gob.mx/nota_detalle.php?codigo=5424367&fecha=04/02/2016
 ER  -
+Camacho Romero, F. J. (2016). CONCILIANET: Plataforma electrónica de 
+PROFECO. Innovación en la atención de quejas de consumidores. 
+Revista de Administración Pública, LI(140), 199-223.
+
+Campuzano Paniagua, G. (2016). Online-Learning como soporte de 
+capacitación y calidad para una Administración Pública Moderna. 
+
+Revista de Administración Pública, LI(140), 129-144.
+Fox, J. (2007). Accountability Politics: Power and Voice in Rural Mexico. Oxford, 
+UK: Oxford University Press.
+
+Galindo Ceballos, E. F. (2016). La seguridad cibernética en el nuevo entorno 
+operativo. Revista de Administración Pública, LI(140), 181-198.
+
+Hammer, M., & Champy, J. (1993). Reengineering the corporation: A manifesto 
+for business revolution. New York, NY: HarperBusiness.
+
+Hidalgo Konishi, D. (2016). Brecha Digital. Revista de Administración Pública, 
+LI(140), 43-61.
+
+Miranda Nieto, J. (2016). La adquisición de TIC en la Administración Pública 
+Federal. Revista de Administración Pública, LI(140), 225-234.
+
+Norris, P. (2001). Digital divide: Civic engagement, Information poverty, and the 
+Internet worldwide. Cambridge, MA: Cambridge UniversityP.
+
+Osborne, D., & Gaebler, T. (1992). Reinventing government: How the 
+Entrepreneurial spirit is transforming the public sector. New York, 
+NY: Addison-Wesley.
+
+Pisanty, A. (2016). Algunos rasgos del futuro de las agendas digitales 
+nacionales. 
+
+Revista de Administración Pública, LI(140), 13-41.
+
+Secretaría de la Función Pública. (2014, 8 de mayo). Acuerdo que tiene por 
+objeto emitir las políticas y disposiciones para la Estrategia Digital 
+Nacional... y establecer el Manual Administrativo de Aplicación 
+General en dichas materias. Diario Oficial de la Federación.
